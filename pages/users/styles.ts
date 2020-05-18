@@ -4,7 +4,7 @@ export const Wrapper = styled.div``;
 
 export const Navbar = styled.div`
   width: 100%;
-  background-color: #2196f3;
+  background-color: green;
   height: 3.4rem;
 `;
 
